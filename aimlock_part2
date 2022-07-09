@@ -1,4 +1,4 @@
-local Aiming = loadstring(game:HttpGet("https://gist.githubusercontent.com/diegxw/d870997929af2a1483180013f688c771/raw/ebd11cce0600c1a140f411f7e1b9e8d4a7320037/module"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/swagmode/kittenassist_src/main/aimlock_part3.lua"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
